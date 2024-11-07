@@ -66,7 +66,7 @@ div.nav li:hover {
 body {
     display: flex;
     flex-direction: column;
-    background-color: #5576a8;
+    background-color: #747575;
 }
 
 .main {
@@ -121,10 +121,12 @@ body {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #222;
+    background-color: #222;
+    padding: 1em;
 }
 
 .footer a {
-    color: #222;
+    color: #807e7e;
 }
 
 .footer .social {

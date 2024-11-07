@@ -5,7 +5,7 @@ Description: This is our index page.
 
 Vincents portfolio
 ==========================
+![me](%assets_url%/img/mesmall.png) {.me}
+Mitt namn är Vincent jag bor i en liten by som heter Bara precis utanför Malmö. Jag pluggar webbprogrammering på distans.
 
-The source for this page is in `content/index.md`.
 
-This is a sample home page written in markdown with some frontmatter defined.
