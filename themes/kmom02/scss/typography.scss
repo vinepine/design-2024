@@ -1,0 +1,35 @@
+html {
+  font-size: 100%;
+}
+
+
+body {
+  font-family: 'Geist', sans-serif;
+  font-size: 1.1em;
+}
+
+p {
+  margin-bottom: 1.96rem;
+  line-height: 1.4;
+    
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: $footer-background;
+  font-weight: 480; 
+}
+
+.header a {
+  text-decoration: none;
+  color: $footer-background;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+p {
+  color: $footer-background;
+  font-weight: 500; 
+}

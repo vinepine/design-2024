@@ -1,0 +1,35 @@
+.header {
+
+  display: flex;
+  justify-content: space-between;
+  padding: 4rem;
+}
+
+.logo img {
+  width: 150px;
+  border-radius: 50%;
+  box-shadow: $box-shadow;
+}
+
+.site-header .title {
+  padding-left: 5rem;
+}
+
+.header a {
+  text-decoration: none;
+  color: $navLinkColor;
+
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.me {
+  float: right;
+  margin: 5px;
+  box-shadow: $box-shadow;
+  border-radius: 2%;
+}
