@@ -6458,16 +6458,16 @@ p {
 }
 
 body {
-  display: flex;
+  display: block;
   flex-direction: column;
   background-image: linear-gradient(to right, #caced1, #96aec4);
 }
 
 .main {
-  width: 100%;
+  width: 80%;
   max-width: 64rem;
   margin: 0 auto;
-  min-height: 456px;
+  min-height: 467px;
 }
 
 blockquote {
@@ -6527,7 +6527,7 @@ pre code {
     flex-direction: column;
   }
   .header .site-header .title {
-    padding-left: 0rem;
+    padding-left: 0;
   }
   .header .nav ul {
     flex-wrap: wrap;
@@ -6628,7 +6628,7 @@ pre code {
 .landing-page {
   display: grid;
   gap: 1.96rem;
-  margin: 50px;
+  margin-bottom: 50px;
 }
 
 .landing-page h1 {
