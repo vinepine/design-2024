@@ -6466,7 +6466,6 @@ body {
 .main {
   width: 100%;
   max-width: 64rem;
-  padding: 2rem;
   margin: 0 auto;
   min-height: 456px;
 }
@@ -6510,8 +6509,34 @@ pre code {
   display: flex;
   justify-content: space-between;
   padding: 4rem;
+  flex-direction: row;
 }
 
+.nav ul {
+  display: flex;
+  padding: 1em 0;
+  justify-content: flex-end;
+}
+
+@media (max-width: 1100px) {
+  .header {
+    flex-direction: column;
+  }
+  .header .site-header {
+    margin: auto;
+    flex-direction: column;
+  }
+  .header .site-header .title {
+    padding-left: 0rem;
+  }
+  .header .nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .header .nav {
+    width: 100%;
+  }
+}
 .logo img {
   width: 150px;
   border-radius: 50%;
@@ -6543,6 +6568,7 @@ pre code {
   align-items: center;
   padding: 3rem;
   border-top: 3px solid #333;
+  box-sizing: border-box;
 }
 .footer p {
   color: #b5bdc2;
@@ -6601,7 +6627,7 @@ pre code {
 
 .landing-page {
   display: grid;
-  gap: 1.96rem 1.96rem;
+  gap: 1.96rem;
   margin: 50px;
 }
 
@@ -6617,7 +6643,7 @@ pre code {
 
 .box {
   border: 3px solid #3b3b3b;
-  padding: 1.96rem 1.96rem;
+  padding: 1.96rem;
   border-radius: 1%;
 }
 
