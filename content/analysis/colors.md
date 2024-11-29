@@ -58,7 +58,7 @@ Färgschema: Jag skulle kalla detta färgschemat som Monokramiskt med blått som
 
 ###Elgiganten:
 Elgiganten använder sig utav Open Sans typsnitt men även en egen form av denna för olika rubriker.
-Färgschema: Kontrasterande eller analog variant i två nyanser. De använder sig utav gul färg för att fånga användarens ögon.
+Färgschema: Kontrasterande eller analog variant i två nyanser. De använder sig utav gul färg för att fånga användarens öga.
 
 
 <table style="border-spacing: 4px; border-collapse: separate">
