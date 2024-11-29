@@ -1,0 +1,23 @@
+.colors {
+    grid-column: span 1;
+}
+
+.load {
+    grid-column: span 2;
+}
+
+.design {
+    grid-column: span 3;
+}
+
+@media (max-width: 700px) {
+    .colors {
+        grid-column: span 3;
+    }
+    .load {
+        grid-column: span 3;
+    }
+    .design {
+        grid-column: span 3;
+    }
+}

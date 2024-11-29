@@ -1,0 +1,52 @@
+.black {
+  box-sizing: content-box;
+  width: 600px;
+  height: 100px;
+  background-color: rgb(0, 0, 0);
+}
+
+.blue {
+  box-sizing: content-box;
+  background-color: rgb(0, 0, 255);
+  width: 100vw;
+  height: 100px;
+}
+
+.red {
+  width: 50%;
+  height: 100px;
+  box-sizing: border-box;
+  background-color: rgb(255, 0, 0);
+}
+
+.green {
+  width: 100vw;
+  box-sizing: border-box;
+  height: 100px;
+  background-color: rgb(0, 126, 0);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Yesteryear&display=swap');
+
+.old-fashioned {
+  font-family: 'Yesteryear', cursive;
+  font-weight: 400;
+}
+
+
+
+.modern {
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+@mixin ugly {
+  letter-spacing: -3px;
+  line-height: 8px;
+  font-style: oblique;
+}
+
+.worst-ever {
+  @include ugly;
+  color: $footer-background;
+}

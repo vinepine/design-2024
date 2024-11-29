@@ -7,7 +7,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/regular';
 
 @import '../../node_modules/normalize.css/normalize';
-@import 'variables';
+@import 'dark-variables';
 @import 'typography';
 @import 'container';
 @import 'blockquotes';
@@ -17,4 +17,3 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'test';
 @import 'technology';
 @import 'analysis';
-@import 'repport';

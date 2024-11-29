@@ -2,7 +2,6 @@ body {
   display: block;
   flex-direction: column;
   background-image: $gradientcolor;
-  position: relative;
 }
 
 .main {
@@ -10,5 +9,4 @@ body {
   max-width: 64rem;
   margin: 0 auto;
   min-height: 467px;
-  padding-bottom: 10em;
 }

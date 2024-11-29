@@ -6444,26 +6444,26 @@ h4,
 li,
 th,
 td {
-  color: #242424;
+  color: #f0f0f0;
   font-weight: 480;
 }
 
 .header a {
   text-decoration: none;
-  color: #242424;
+  color: #f0f0f0;
   font-weight: 400;
   font-size: 1.2rem;
 }
 
 p {
-  color: #242424;
+  color: #f0f0f0;
   font-weight: 500;
 }
 
 body {
   display: block;
   flex-direction: column;
-  background-image: linear-gradient(to right, #e6eaec, #9db3c7);
+  background-image: linear-gradient(to right, #4e4e4e, #15181b);
   position: relative;
 }
 
@@ -6570,7 +6570,7 @@ pre code {
   position: absolute;
   bottom: 0;
   width: 100%;
-  background-color: #3b3b3b;
+  background-color: #0e0d0d;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -6580,13 +6580,13 @@ pre code {
   box-sizing: border-box;
 }
 .footer p {
-  color: #CFCFCF;
+  color: #b5bdc2;
 }
 
 .social a {
   text-decoration: none;
   font-size: 2rem;
-  color: #CFCFCF;
+  color: #b5bdc2;
 }
 
 .black {
@@ -6631,7 +6631,7 @@ pre code {
   letter-spacing: -3px;
   line-height: 8px;
   font-style: oblique;
-  color: #3b3b3b;
+  color: #0e0d0d;
 }
 
 .landing-page {
@@ -6651,7 +6651,7 @@ pre code {
 }
 
 .box {
-  border: 3px solid #3b3b3b;
+  border: 3px solid #0e0d0d;
   padding: 1.96rem;
   border-radius: 1%;
 }
@@ -6719,7 +6719,7 @@ pre code {
 }
 
 .menu a {
-  color: #3b3b3b;
+  color: #0e0d0d;
 }
 
 @media (max-width: 700px) {
@@ -6760,15 +6760,4 @@ pre code {
   .design {
     grid-column: span 3;
   }
-}
-.netonnet {
-  max-width: 48%;
-}
-
-.webbhallen {
-  max-width: 48%;
-}
-
-.elgiganten {
-  max-width: 48%;
 }

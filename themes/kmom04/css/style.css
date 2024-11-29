@@ -6444,27 +6444,26 @@ h4,
 li,
 th,
 td {
-  color: #242424;
+  color: #1d1d1d;
   font-weight: 480;
 }
 
 .header a {
   text-decoration: none;
-  color: #242424;
+  color: #1d1d1d;
   font-weight: 400;
   font-size: 1.2rem;
 }
 
 p {
-  color: #242424;
+  color: #1d1d1d;
   font-weight: 500;
 }
 
 body {
   display: block;
   flex-direction: column;
-  background-image: linear-gradient(to right, #e6eaec, #9db3c7);
-  position: relative;
+  background-image: linear-gradient(to right, #caced1, #96aec4);
 }
 
 .main {
@@ -6472,7 +6471,6 @@ body {
   max-width: 64rem;
   margin: 0 auto;
   min-height: 467px;
-  padding-bottom: 10em;
 }
 
 blockquote {
@@ -6491,7 +6489,7 @@ code {
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
-  color: rgb(0, 0, 0);
+  color: black;
 }
 
 pre {
@@ -6567,9 +6565,6 @@ pre code {
 }
 
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
   background-color: #3b3b3b;
   display: flex;
   flex-direction: row;
@@ -6580,13 +6575,13 @@ pre code {
   box-sizing: border-box;
 }
 .footer p {
-  color: #CFCFCF;
+  color: #b5bdc2;
 }
 
 .social a {
   text-decoration: none;
   font-size: 2rem;
-  color: #CFCFCF;
+  color: #b5bdc2;
 }
 
 .black {
@@ -6737,38 +6732,4 @@ pre code {
   .technology .menu h1 {
     display: none;
   }
-}
-.colors {
-  grid-column: span 1;
-}
-
-.load {
-  grid-column: span 2;
-}
-
-.design {
-  grid-column: span 3;
-}
-
-@media (max-width: 700px) {
-  .colors {
-    grid-column: span 3;
-  }
-  .load {
-    grid-column: span 3;
-  }
-  .design {
-    grid-column: span 3;
-  }
-}
-.netonnet {
-  max-width: 48%;
-}
-
-.webbhallen {
-  max-width: 48%;
-}
-
-.elgiganten {
-  max-width: 48%;
 }
