@@ -1,14 +1,17 @@
 ---
 Title: Report
 Description: This is our tech page.
-Template: analysis
+Template: landing-analysis
 analyser:
     - name: Colors
       class: colors
+      link: 01_colors
     - name: Load
       class: load
-    - name: Design principles
+      link: 02_load
+    - name: Design_principles
       class: design
+      link: 03_design_principles
 ---
 
 Report

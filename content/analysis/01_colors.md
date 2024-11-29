@@ -1,7 +1,7 @@
 ---
 Title: Colors
 Description: This is our colors page.
-Template: singleAnalysis
+Template: analysis
 ---
 
 Colors
