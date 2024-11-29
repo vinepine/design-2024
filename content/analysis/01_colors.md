@@ -17,7 +17,7 @@ Jag har valt att analysera Netonnet.se, Webbhallen.se och Elgiganten.se. Valet �
 Metod
 -----------------------
 
-Metoden som jag använder mig utav är den inbyggda inspektionsverktyget i Chrome. För att identifiera färgerna. Jag använder mig utav WhatFont; ett Chrometillägg, för att kolla vilken font hemsidan använder.
+Metoden som jag använder mig utav är det inbyggda inspektionsverktyget i Chrome för att identifiera färgerna. Jag använder mig utav WhatFont; ett Chrometillägg, för att kolla vilken font hemsidan använder.
 
 
 
@@ -85,8 +85,11 @@ Referenser
 -----------------------
 
 Elgiganten
+
 Webbhallen
+
 NetOnNet
+
 
 Övrigt
 -----------------------
