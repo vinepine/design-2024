@@ -9,7 +9,7 @@ analyser:
     - name: Load
       class: load
       link: 02_load
-    - name: Design_principles
+    - name: Design principles
       class: design
       link: 03_design_principles
 ---
