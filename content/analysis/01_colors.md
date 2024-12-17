@@ -40,6 +40,8 @@ Färgschema: Analogt färgschema med inslag av rött för fånga användarens ö
 
 ![netonnet](%assets_url%/img/netonnet.png) {.netonnet} ![netonnet](%assets_url%/img/netonnet1.png) {.netonnet}
 
+<hr class="mainline"></hr>
+
 ###Webbhallen:
 Webbhallen använder sig utav Averta typsnitt över hela hemsidan (h1,h2 och p).
 Färgschema: Jag skulle kalla detta färgschemat som Monokramiskt med blått som kontrast. Som tidigare använder de sig även av rött för att fånga användarens ögon.
@@ -55,6 +57,8 @@ Färgschema: Jag skulle kalla detta färgschemat som Monokramiskt med blått som
 </table>
 
 ![webbhallen](%assets_url%/img/webbhallen.png) {.webbhallen} ![webbhallen](%assets_url%/img/webbhallen1.png) {.webbhallen}
+
+<hr class="mainline"></hr>
 
 ###Elgiganten:
 Elgiganten använder sig utav Open Sans typsnitt men även en egen form av denna för olika rubriker.
@@ -73,6 +77,8 @@ Färgschema: Kontrasterande eller analog variant i två nyanser. De använder si
 </table>
 
 ![elgiganten](%assets_url%/img/Elgiganten.png) {.elgiganten} ![elgiganten](%assets_url%/img/elgiganten1.png) {.elgiganten}
+
+<hr class="mainline"></hr>
 
 Analys
 -----------------------

@@ -7,7 +7,7 @@ Description: This is my gallery page.
     <div class="grid1">
     <a href="%base_url%/assets/img/groundkmom05.jpg">
     <picture>
-        <source media="(min-width: 668px)" srcset="image/groundkmom05.jpg?w=960&q=90">
+        <source media="(min-width: 668px)" srcset="image/groundkmom05.jpg?w=960&q=80">
         <source media="(min-width: 376px)" srcset="image/groundkmom05.jpg?w=667&q=60">
         <img src="image/groundkmom05.jpg?w=375&q=60" alt="mountain">
     </picture>
@@ -16,7 +16,7 @@ Description: This is my gallery page.
     <div class="grid2">
     <a href="%base_url%/assets/img/treekmom05.jpg">
     <picture>
-        <source media="(min-width: 668px)" srcset="image/treekmom05.jpg?w=960&q=90">
+        <source media="(min-width: 668px)" srcset="image/treekmom05.jpg?w=960&q=80">
         <source media="(min-width: 376px)" srcset="image/treekmom05.jpg?w=667&q=60">
         <img src="image/treekmom05.jpg?w=375&q=60" alt="tree">
     </picture>
@@ -25,7 +25,7 @@ Description: This is my gallery page.
     <div class="grid3">
     <a href="%base_url%/assets/img/waterkmom05.jpg">
     <picture>
-        <source media="(min-width: 668px)" srcset="image/waterkmom05.jpg?w=960&q=90">
+        <source media="(min-width: 668px)" srcset="image/waterkmom05.jpg?w=960&q=80">
         <source media="(min-width: 376px)" srcset="image/waterkmom05.jpg?w=667&q=60">
         <img src="image/waterkmom05.jpg?w=375&q=60" alt="waterfall">
     </picture>
@@ -34,7 +34,7 @@ Description: This is my gallery page.
     <div class="grid4">
     <a href="%base_url%/assets/img/animalkmom05.jpg">
     <picture>
-        <source media="(min-width: 668px)" srcset="image/animalkmom05.jpg?w=960&h=1442&crop-to-fit&q=90">
+        <source media="(min-width: 668px)" srcset="image/animalkmom05.jpg?w=960&h=1442&crop-to-fit&q=80">
         <source media="(min-width: 376px)" srcset="image/animalkmom05.jpg?w=667&h=1000&crop-to-fit&q=60">
         <img src="image/animalkmom05.jpg?w=375&h=570&crop-to-fit&q=60" alt="twoanimalsonfield">
     </picture>
@@ -43,7 +43,7 @@ Description: This is my gallery page.
     <div class="grid5">
     <a href="%base_url%/assets/img/nightmountainkmom05.jpg">
     <picture>
-        <source media="(min-width: 668px)" srcset="image/nightmountainkmom05.jpg?w=960&h=1442&crop-to-fit&q=90">
+        <source media="(min-width: 668px)" srcset="image/nightmountainkmom05.jpg?w=960&h=1442&crop-to-fit&q=80">
         <source media="(min-width: 376px)" srcset="image/nightmountainkmom05.jpg?w=667&h=1000&crop-to-fit&q=60">
         <img src="image/nightmountainkmom05.jpg?w=375&h=570&crop-to-fit&q=60" alt="mountainatnight">
     </picture>
@@ -52,7 +52,7 @@ Description: This is my gallery page.
     <div class="grid6">
     <a href="%base_url%/assets/img/fieldmountain.jpg">
     <picture>
-        <source media="(min-width: 668px)" srcset="image/fieldmountain.jpg?w=960&h=1442&crop-to-fit&q=90">
+        <source media="(min-width: 668px)" srcset="image/fieldmountain.jpg?w=960&h=1442&crop-to-fit&q=80">
         <source media="(min-width: 376px)" srcset="image/fieldmountain.jpg?w=667&h=1000&crop-to-fit&q=60">
         <img src="image/fieldmountain.jpg?w=375&h=570&crop-to-fit&q=60" alt="mountainatnight">
     </picture>

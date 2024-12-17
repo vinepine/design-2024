@@ -23,7 +23,7 @@ Jag använder mig av devtools i google chrome för att mäta laddningstiden på 
 
 
 <div class="embed-spreadsheet">
-<iframe style="width: 100%; height: 275px; max-width: 830px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0mqIz4cqkmsve9kMhyKRPJEMfCZQcfXtYt2sgvjlyCADaAqMJ4ygF_uUx9QZQ-Ku6rbkDll1H64v5/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe title="googledocs" style="width: 100%; height: 275px; max-width: 830px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0mqIz4cqkmsve9kMhyKRPJEMfCZQcfXtYt2sgvjlyCADaAqMJ4ygF_uUx9QZQ-Ku6rbkDll1H64v5/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 Resultat
 -----------------------
@@ -34,12 +34,14 @@ Resultat
 
 Mest populära av de tre hemsidorna präglas också med sämsta laddningstiden. För sin usla laddningstid får den ett lågt prestandabetyg ~40. Enligt PSI hade en optimering av Javascript gett 3 sekunder snabbare laddningstid. Vilket hade varit väldigt stor förbättring.
 
-
+<hr class="mainline"></hr>
 
 ### Twitch
 ![twitch](%assets_url%/img/twitch.jpg) {.bild}
 
 Twitch har väldigt usla prestandabetyg trots sin märkbara snabbhet jämfört med Youtube. Javascripted väger tungt på Twitch, med enligt PSI 5,5s laddningsstid. Med ett onödigt stort DOM-träd så får får webbsidan ett väldigt lågt betyg både på mobil och desktop.
+
+<hr class="mainline"></hr>
 
 ### Dailymotion
 ![dailymotion](%assets_url%/img/dailymotion.jpg) {.bild}

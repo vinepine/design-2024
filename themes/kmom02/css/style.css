@@ -6566,6 +6566,28 @@ pre code {
   border-radius: 2%;
 }
 
+.mainline {
+  line-height: 1em;
+  position: relative;
+  outline: 0;
+  border: 0;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  height: 1.5em;
+  opacity: 0.5;
+  margin-top: -20px;
+  margin-bottom: 40px;
+}
+.mainline::before {
+  content: "";
+  background: linear-gradient(to right, transparent, #818078, transparent);
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  height: 1px;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -6581,13 +6603,13 @@ pre code {
   max-height: 180px;
 }
 .footer p {
-  color: #CFCFCF;
+  color: #cfcfcf;
 }
 
 .social a {
   text-decoration: none;
   font-size: 2rem;
-  color: #CFCFCF;
+  color: #cfcfcf;
 }
 
 .black {
@@ -6774,6 +6796,10 @@ pre code {
   max-width: 48%;
 }
 
+.bild {
+  max-width: 99%;
+}
+
 .embed-spreadsheet {
   width: 100%;
   height: 300px;
@@ -6798,7 +6824,7 @@ video {
 }
 
 .griddy img:hover {
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
 }
 
 .grid1 {
